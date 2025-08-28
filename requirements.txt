@@ -1,0 +1,3 @@
+# ✅ MÍNIMO ESSENCIAL
+pyspark==3.4.0
+jupyter==1.0.0
